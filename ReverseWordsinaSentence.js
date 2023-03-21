@@ -2,7 +2,7 @@
 //Take the “Hello World” string for example:"Hello World"-->"World Hello"
 
 //Runtime complexity
-//linear, O(n), position of all the elements in the sentence is changed.
+//Linear, O(n), position of all the elements in the sentence is changed.
 
 //Memory complexity
 //Constant, O(1).

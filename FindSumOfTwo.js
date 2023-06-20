@@ -8,11 +8,9 @@
 //Linear, O(n).
 
 let findSumOfTwo = function(A, val) {
-  let list = new Array();
   for(let i in A){
     if (list.includes(val-A[i]))
       return true;
-    list.push(A[i]);
   }
   return false;
 };

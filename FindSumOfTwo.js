@@ -5,7 +5,7 @@
 //Linear, O(n).
 
 //Memory Complexity
-//Linear, O(n).
+//Constant, O(1).
 
 let findSumOfTwo = function(A, val) {
   for(let i in A){

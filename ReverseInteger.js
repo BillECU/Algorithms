@@ -22,7 +22,7 @@ var reverse = function(x) {
         x= parseInt(x/10);
     }
     if(num > max || num < min){
-        num = 0;
+        return 0;
     }
     return num;
 };

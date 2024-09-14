@@ -27,6 +27,20 @@
  */
 
 var simplifyPath = function(path) {
+    //reverse version
+    // let reverse = path.split('/').filter(p => p !=='.' && p!=='').reverse();
+    
+    // let answer = [];
+    // let parent = 0;
+    // for(let i = 0; i < reverse.length; i++){
+    //     if(reverse[i] === '..')
+    //         parent += 1;
+    //     else{
+    //         parent > 0 ? parent-=1 : answer.push(reverse[i]) ;
+    //     }
+            
+    // }
+    // return '/' + answer.reverse().join('/');
     let clean =  path.split('/').filter(p => p !=='.' && p!=='');
     let answer = [];
     for (const p of clean){

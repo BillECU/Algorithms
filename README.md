@@ -11,6 +11,12 @@ Algorithm and Data Structure practice in Javascript
 - Reverse Words in a Sentence
 - Coin Change
 - Permutations
--
+- First Missing Positive
+- Group Anagrams
+- Reverse Integer
+- Search Insert Position
+- Simplify Path
+
+
 
 

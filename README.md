@@ -16,6 +16,7 @@ Algorithm and Data Structure practice in Javascript
 - Reverse Integer
 - Search Insert Position
 - Simplify Path
+- Plus One
 
 
 

@@ -17,6 +17,7 @@ Algorithm and Data Structure practice in Javascript
 - Search Insert Position
 - Simplify Path
 - Plus One
+- Sqrt(X)
 
 
 

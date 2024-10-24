@@ -19,6 +19,7 @@ Algorithm and Data Structure practice in Javascript
 - Plus One
 - Sqrt(X)
 - Longest Consecutive Sequence
+- Path Sum
 
 
 

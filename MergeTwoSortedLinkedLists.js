@@ -1,10 +1,10 @@
 //Given two sorted linked lists, merge them so that the resulting linked list is also sorted.
 
 //Runtime Complexity
-//Linear, O(m + n) where m and n are lengths of both linked lists.
+//Linear, O(m + n), where m and n are lengths of both linked lists.
 
 //Memory Complexity
-//Constant, O(1)
+//Constant, O(1).
 
 let merge_sorted = function(head1, head2) {
   if(!head1)

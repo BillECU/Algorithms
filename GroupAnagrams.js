@@ -4,6 +4,13 @@
 //Input: strs = ["eat","tea","tan","ate","nat","bat"]
 //Output: [["bat"],["nat","tan"],["ate","eat","tea"]]
 
+//Time complexity: O(n⋅klogk)
+//Runtime Complexity
+//O(n*klogk), where n is the number of strings and k is the length of longest string
+
+//Space Complexity 
+//O(n*k), where we sort and then create map key
+
 /**
  * @param {string[]} strs
  * @return {string[][]}

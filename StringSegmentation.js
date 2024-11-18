@@ -6,7 +6,7 @@
 //With memoization, the runtime complexity of this solution can be improved to be polynomial, O(n^{2})
 
 //Memory Complexity
-//Polynomial, O(n^2)
+//Polynomial, O(n^2).
 
 let canSegmentString = function(s, dictionary) {
   //TODO: Write - Your - Code
